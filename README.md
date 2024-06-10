@@ -47,6 +47,7 @@ This is an e-commerce API.
 
 - **Docker**: Containerization
 - **Spring Boot (Kotlin)**: Backend Framework
+- **Redis**: Cache
 - **PostgreSQL**: Database
 - **RabbitMQ**: Messaging Queue
 - **SwaggerUI**: API Documentation
