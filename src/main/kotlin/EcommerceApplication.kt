@@ -1,4 +1,4 @@
-package com.example.demo
+package com.kalilecommerce
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
