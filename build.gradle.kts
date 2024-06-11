@@ -6,7 +6,7 @@ plugins {
 	kotlin("plugin.spring") version "1.9.24"
 }
 
-group = "com.example"
+group = "com.kalilcamera"
 version = "0.0.1-SNAPSHOT"
 
 java {
@@ -32,6 +32,7 @@ dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-security")
 	implementation("org.springframework.boot:spring-boot-starter-validation")
 	implementation("org.springframework.boot:spring-boot-starter-web")
+	implementation("org.flywaydb:flyway-core")
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
